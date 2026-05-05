@@ -1,4 +1,4 @@
-# school-life
+# school-management-system
 Libro de Clases Online School Life
 El objetivo principal de este proyecto es desarrollar un sistema de software que pueda administrar y comunicar la información del colegio y su alumnado utilizando la base de datos entregada por el DAEM. ¡School Life, ¡Permitiendo la modernización de la gestión escolar! ¡Vivamos juntos una gestión de excelencia!
 
